@@ -1,2 +1,2 @@
 # JupyterNotebook-Projects
-### Diagnosing opportunities in dataframes and presenting solutions with Data Science!
+### 1. Spotify - indentifying the correlation between the popularity of a song and its musical characteristic.
